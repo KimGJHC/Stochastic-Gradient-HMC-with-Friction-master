@@ -1,4 +1,5 @@
 # SGHMC with Friction
+### Created in Auguest 2020
 
 Implementation of Stochastic Gradient Hamiltonian Monte Carlo.
 
